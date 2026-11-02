@@ -1,0 +1,10 @@
+data/
+runs/
+runs_quick/
+__pycache__/
+*.pyc
+.DS_Store
+*.pt
+*.npz
+.venv/
+venv/

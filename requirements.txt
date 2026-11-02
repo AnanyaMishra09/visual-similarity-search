@@ -1,0 +1,6 @@
+torch>=2.2
+torchvision>=0.17
+numpy>=1.24
+gradio>=4.0
+huggingface_hub==0.25.2  # pinned: gradio 4.44's oauth module imports HfFolder, removed in newer huggingface_hub
+Pillow>=10.0
